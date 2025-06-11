@@ -1,0 +1,1 @@
+# Screenshots of git course completion
